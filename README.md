@@ -9,8 +9,8 @@ Yazılım geliştirme ve açık kaynak projeleriyle ilgileniyorum.
 ## 🚀 Hakkımda
 
 - 🌱 Şu anda Html, Css, JavaScript ve React üzerinde kendimi geliştiriyorum.
-- 💡 İlgi alanlarım ve hedeflerim: Web geliştirme, veri bilimi, yapay zeka.
-- 🎉 Hobilerim: Kitap okumak, müzik dinlemek, doğa yürüyüşleri ve kamp gibi etkinlikler.
+- 💡 İlgi alanlarım ve hedeflerim: Web geliştirme, yapay zeka.
+- 🎉 Hobilerim: Kitap okumak, müzik dinlemek, spor yapmak, doğa yürüyüşleri ve kamp gibi etkinlikler.
 - ⚡ Teknolojiyi ve teknolojik gelişimleri seviyorum ve yakından takip ediyorum.
  
 ![Html](https://img.shields.io/badge/HTML-orange?logo=html5)
