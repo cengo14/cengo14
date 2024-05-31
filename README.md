@@ -12,7 +12,9 @@ Yazılım geliştirme ve açık kaynak projeleriyle ilgileniyorum.
 - 💡 İlgi alanlarım ve hedeflerim: Web geliştirme, yapay zeka.
 - 🎉 Hobilerim: Kitap okumak, müzik dinlemek, spor yapmak, doğa yürüyüşleri ve kamp gibi etkinlikler.
 - ⚡ Teknolojiyi ve teknolojik gelişimleri seviyorum ve yakından takip ediyorum.
- 
+
+Sosyal medya hesaplarıma proil fotoğrafımın altındaki linklerden ulaşabilirsiniz😊
+
 ![Html](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
 ![JS](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
