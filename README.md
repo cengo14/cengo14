@@ -9,7 +9,7 @@ Yazılım geliştirme ve açık kaynak projeleriyle ilgileniyorum.
 ## 🚀 Hakkımda
 
 - 🌱 Şu anda Html, Css, JavaScript ve React üzerinde kendimi geliştiriyorum.
-- 💡 İlgi alanlarım ve hedeflerim: Web geliştirme, yapay zeka, BlockChain.
+- 💡 İlgi alanlarım ve hedeflerim: Web geliştirme, Yapay Zeka(Ai), BlockChain.
 - 🎉 Hobilerim: Kitap okumak, müzik dinlemek, spor yapmak, doğa yürüyüşleri ve kamp gibi etkinlikler.
 - ⚡ Teknolojiyi ve teknolojik gelişimleri seviyorum ve yakından takip ediyorum.
 
