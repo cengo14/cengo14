@@ -13,7 +13,7 @@
 - 🎉 Hobilerim: Kitap okumak, müzik dinlemek, spor yapmak, doğa yürüyüşleri ve kamp gibi etkinlikler.
 - ⚡ Teknolojiyi ve teknolojik gelişimleri seviyorum ve yakından takip ediyorum.
 
-Sosyal medya hesaplarıma proil fotoğrafımın altındaki linklerden ulaşabilirsiniz😊
+Sosyal medya hesaplarıma profil bilgilerimdeki ilgili linklerden ulaşabilirsiniz😊
 
 ![Html](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
