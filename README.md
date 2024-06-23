@@ -4,7 +4,7 @@
   </h1>
 </div> 
 
-✨ Yazılım geliştirme ve açık kaynak projeleriyle ilgileniyorum.
+✨ Yazılım geliştirme ve açık kaynak kod projeleriyle ilgileniyorum.
 
 ## 🚀 Hakkımda
 
