@@ -17,6 +17,7 @@ Sosyal medya hesaplarıma profil bilgilerimdeki ilgili linklerden ulaşabilirsin
 
 ![Html](https://img.shields.io/badge/HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
+![SCSS](https://img.shields.io/badge/SCSS-pink?logo=sass)
 ![JS](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue?logo=React)
 ![Bootstrap](https://img.shields.io/badge/Boostrap-purple?logo=bootstrap)
