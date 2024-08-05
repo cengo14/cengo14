@@ -21,8 +21,7 @@ Sosyal medya hesaplarıma profil bilgilerimdeki ilgili linklerden ulaşabilirsin
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue?logo=React)
 ![Bootstrap](https://img.shields.io/badge/Boostrap-purple?logo=bootstrap)
 ![Git](https://img.shields.io/badge/Git-white?logo=git)
-![NodeJS](https://img.shields.io/badge/NodeJS-yellow?logo=node.js)
-![Python](https://img.shields.io/badge/Python-gray?logo=python)
+
 
 
 
